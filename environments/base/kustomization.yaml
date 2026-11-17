@@ -18,14 +18,14 @@ resources:
 images:
   - name: todo-app
     newName: europe-north1-docker.pkg.dev/total-amulet-514412-b7/dwk-images/todo-app
-    newTag: "492be346f56c09263156d8006931522c73b60235"
+    newTag: "e358529723b3e94a0ca57868f2997595cb1ee7b8"
   - name: todo-backend
     newName: europe-north1-docker.pkg.dev/total-amulet-514412-b7/dwk-images/todo-backend
-    newTag: "492be346f56c09263156d8006931522c73b60235"
+    newTag: "e358529723b3e94a0ca57868f2997595cb1ee7b8"
 
   - name: broadcaster
     newName: europe-north1-docker.pkg.dev/total-amulet-514412-b7/dwk-images/broadcaster
-    newTag: "492be346f56c09263156d8006931522c73b60235"
+    newTag: "e358529723b3e94a0ca57868f2997595cb1ee7b8"
 
 patches:
   - target:
