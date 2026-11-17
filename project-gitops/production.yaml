@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/teddypihl/DevOps-with-Kubernetes.git
+    repoURL: https://github.com/teddypihl/DevOps-with-Kubernetes-gitops.git
     targetRevision: production
     path: environments/overlays/production
   destination:
